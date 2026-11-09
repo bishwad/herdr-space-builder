@@ -1,0 +1,24 @@
+{
+  "spaces": [
+    {
+      "name": "development",
+      "tabs": [
+        {
+          "name": "Code",
+          "panes": [
+            {
+              "id": "editor",
+              "working_dir": "~/projects/example",
+              "command": "nvim"
+            },
+            {
+              "id": "shell",
+              "split_from": "editor",
+              "split": "right"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

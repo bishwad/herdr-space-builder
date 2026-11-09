@@ -1,0 +1,8 @@
+{
+  "global": {
+    "ctrl-shift-m": "mod.open:space-builder"
+  },
+  "mod:space-builder": {
+    "escape": "space-builder.escape"
+  }
+}
